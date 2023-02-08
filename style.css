@@ -1,0 +1,16 @@
+.skills{
+    width: 45vh;
+    height: 50vh;
+}
+
+.maint{
+    display: flex;
+    justify-content: center;
+   
+}
+.stext{
+    
+    align-items: center;
+    align-self: center;
+
+}
